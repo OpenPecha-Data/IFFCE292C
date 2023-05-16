@@ -1,0 +1,19 @@
+id: IFFCE292C
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:46.762631
+last_modified: 2023-01-04 11:31:46.762646
+source_metadata:
+  collections:
+  - Chöje Lingpa Series
+  - Works of Tibetan Masters
+bases:
+  ACB9:
+    title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+      Practice that Unites the Oral, Treasure and Visionary Teachings
+    base_file: ACB9.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
